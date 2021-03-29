@@ -29,8 +29,6 @@
 
 Project Status: Under Development :warning:
 
-Project Status: Concluded :heavy_check_mark:
-
 # About the Project <a name="abouttheproject"></a>
 
 This project have a propose to introduce the reader to basic concepts in (put the theme her)
