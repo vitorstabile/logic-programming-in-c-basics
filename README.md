@@ -268,7 +268,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-## <a name="chapter5"></a>Chapter 6: Matrices
+## <a name="chapter6"></a>Chapter 6: Matrices
 
 #### <a name="chapter6part1"></a>Chapter 6 - Part 1: Theory
 
