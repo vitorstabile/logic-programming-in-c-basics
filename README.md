@@ -97,11 +97,13 @@ In Mathematic and Computer Science, an algorithm is any well-defined computation
 
 Example of a bubble sort algorithm:
 
-1. In an unsorted array of 5 elements, start with the first two elements and sort them in ascending order. (Compare the element to check which one is greater).
-2. Compare the second and third element to check which one is greater, and sort them in ascending order.
-3. Compare the third and fourth element to check which one is greater, and sort them in ascending order.
-4. Compare the fourth and fifth element to check which one is greater, and sort them in ascending order.
-5. Repeat steps 1–5 until no more swaps are required.
+1. Enter a unsorted array of 5 elements. (Input)
+2. Start with the first two elements and sort them in ascending order. (Compare the element to check which one is greater). (processing)
+3. Compare the second and third element to check which one is greater, and sort them in ascending order. (processing)
+4. Compare the third and fourth element to check which one is greater, and sort them in ascending order. (processing)
+5. Compare the fourth and fifth element to check which one is greater, and sort them in ascending order. (processing)
+6. Repeat steps 1–5 until no more swaps are required. (processing)
+7. Show in the screen the sorted array (Output)
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Programming Language
 
