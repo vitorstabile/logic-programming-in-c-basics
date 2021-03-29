@@ -155,6 +155,16 @@ And a Software (Logical parts - Programms):
 
 Computer programms is algorithms executade by the computer. For this, hardware and software work together to get the input of the user, process through software and hardware and output the result in screen.
 
+To make a Computer Programm we need four things:
+
+- **Programming language:** Lexical and syntactic rules for writing the program.
+
+- **IDE:** Software to edit and test the program.
+
+- **Compiler**: Transform the source code into object code.
+
+- **Code generator or virtual machine**: Software that allows the program to run.
+
 <br>
 
 <div align="center"><img src="img/chapter1/structural-operating-system-w500-h333.png" width=500 height=333><br><sub>Fig 6 - Computer Input/Processing/Output Diagram Software Level</sub></div>
@@ -169,7 +179,7 @@ Computer programms is algorithms executade by the computer. For this, hardware a
 
 <br>
 
-The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code:
+The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code of the programm:
 
 ```c
 #include <stdio.h>
