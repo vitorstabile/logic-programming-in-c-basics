@@ -106,7 +106,12 @@ Example of a bubble sort algorithm:
 6. Repeat steps 1–5 until no more swaps are required. (processing)
 7. Show in the screen the sorted array (Output)
 
+<br>
+
 <div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working</sub></div>
+
+<br>
+
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation and Computers
 
@@ -114,31 +119,55 @@ Automation describes a wide range of technologies that reduce human intervention
 
 In the example of the algorithm to make a cake, we can automation the process with a machine that is capable to do everything or a part of it...
 
+<br>
+
 <div align="center"><img src="img/chapter1/automation-cake-w1140-h808.gif" width=565 height=400><br><sub>Fig 2 - Automation the Cake Recipe Algorithm</sub></div>
+
+<br>
 
 The automation machine that is capable to automate the bubble sort algorithm is the computer.
 
 What is a Computer?
 
-Down below, a simple reference what is a computer:
+A machine that is capable to automate calculos algorithms. Down below, a simple reference what is a computer:
+
+<br>
 
 <div align="center"><img src="img/chapter1/computer-component-w600-h436.JPG" width=600 height=436><br><sub>Fig 3 - Basic Computer</sub></div>
 
+<br>
+
 A computer have Hardware (Physical parts - machine): 
+
+<br>
 
 <div align="center"><img src="img/chapter1/computer-cross-section-w534-h397.gif" width=534 height=397><br><sub>Fig 4 - Computer Hardware</sub></div>
 
+<br>
+
 And a Software (Logical parts - Programms):
+
+<br>
 
 <div align="center"><img src="img/chapter1/application-software-w360-h305.jpeg" width=360 height=305><br><sub>Fig 5 - Computer Softwares</sub></div>
 
+<br>
+
 Computer programms is algorithms executade by the computer. For this, hardware and software work together to get the input of the user, process through software and hardware and output the result in screen.
+
+<br>
 
 <div align="center"><img src="img/chapter1/structural-operating-system-w500-h333.png" width=500 height=333><br><sub>Fig 6 - Computer Input/Processing/Output Diagram Software Level</sub></div>
 
+<br>
+
 <div align="center"><img src="img/chapter1/computer-system-block-w859-h477.jpg" width=859 height=477><br><sub>Fig 7 - Computer Input/Processing/Output Diagram Hardware Level</sub></div>
-    
+
+<br>
+
 <div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 7 - Computer Input/Processing/Output Common Diagram Common Level</sub></div>
+
+<br>
     
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
 
