@@ -78,11 +78,30 @@ The basic content of a programming logic course consists:
 
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Algorithms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+In essence, algorithms are simply a series of instructions that are followed, step by step, to do something useful or solve a problem. You could consider a cake recipe an algorithm for making a cake, for example.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+Example of a cake recipe algorithm:
+
+1. Preheat the oven
+2. Gather the ingredients
+3. Measure out the ingredients
+4. Mix together the ingredients to make the batter
+5. Grease a pan
+6. Pour the batter into the pan
+7. Put the pan in the oven
+8. Set a timer
+9. When the timer goes off, take the pan out of the oven
+10. Enjoy!
+
+In Mathematic and Computer Science, an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output. An algorithm is thus a sequence of computational steps that transform the input into the output [THOMAS C. CORMEN][cormen-url].
+
+Example of a bubble sort algorithm:
+
+1. In an unsorted array of 5 elements, start with the first two elements and sort them in ascending order. (Compare the element to check which one is greater).
+2. Compare the second and third element to check which one is greater, and sort them in ascending order.
+3. Compare the third and fourth element to check which one is greater, and sort them in ascending order.
+4. Compare the fourth and fifth element to check which one is greater, and sort them in ascending order.
+5. Repeat steps 1–5 until no more swaps are required.
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Programming Language
 
@@ -396,3 +415,4 @@ https://unsplash.com/
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/logic-programming-in-c-basics/blob/master/LICENSE.txt
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
+[cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
