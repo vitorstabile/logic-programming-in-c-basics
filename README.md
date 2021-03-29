@@ -7,12 +7,13 @@
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
-    - [Chapter 1 - Part 2: Programming Language](#chapter1part2)
-    - [Chapter 1 - Part 3: IDE](#chapter1part3)
-    - [Chapter 1 - Part 4: Compiler and Interpreter](#chapter1part4)
-    - [Chapter 1 - Part 5: GCC MinGW Compiler Installation](#chapter1part5)
-    - [Chapter 1 - Part 6: Code Blocks IDE Installation](#chapter1part6)
-    - [Chapter 1 - Part 7: First Program in C](#chapter1part7)
+    - [Chapter 1 - Part 2: Automation and Computers](#chapter1part2)
+    - [Chapter 1 - Part 3: Programming Language](#chapter1part3)
+    - [Chapter 1 - Part 4: IDE](#chapter1part4)
+    - [Chapter 1 - Part 5: Compiler and Interpreter](#chapter1part5)
+    - [Chapter 1 - Part 6: GCC MinGW Compiler Installation](#chapter1part6)
+    - [Chapter 1 - Part 7: Code Blocks IDE Installation](#chapter1part7)
+    - [Chapter 1 - Part 8: First Program in C](#chapter1part8)
 5. [Chapter 2: Sequential Structures](#chapter2)
     - [Chapter 2 - Part 1: Arithmetic Expressions](#chapter2part1)
     - [Chapter 2 - Part 2: Variables](#chapter2part2)
@@ -97,7 +98,7 @@ In Mathematic and Computer Science, an algorithm is any well-defined computation
 
 Example of a bubble sort algorithm:
 
-1. Enter a unsorted array of 5 elements. (Input)
+1. Enter a unsorted array of 5 integer elements. (Input)
 2. Start with the first two elements and sort them in ascending order. (Compare the element to check which one is greater). (processing)
 3. Compare the second and third element to check which one is greater, and sort them in ascending order. (processing)
 4. Compare the third and fourth element to check which one is greater, and sort them in ascending order. (processing)
@@ -107,7 +108,7 @@ Example of a bubble sort algorithm:
 
 <div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working</sub></div>
 
-#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Programming Language
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation and Computers
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -115,7 +116,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part3"></a>Chapter 1 - Part 3: IDE
+#### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -123,7 +124,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part4"></a>Chapter 1 - Part 4: Compiler and Interpreter
+#### <a name="chapter1part4"></a>Chapter 1 - Part 4: IDE
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -131,7 +132,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part5"></a>Chapter 1 - Part 5: GCC MinGW Compiler Installation
+#### <a name="chapter1part5"></a>Chapter 1 - Part 5: Compiler and Interpreter
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -139,7 +140,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part6"></a>Chapter 1 - Part 6: Code Blocks IDE Installation
+#### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -147,7 +148,15 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part7"></a>Chapter 1 - Part 7: First Program in C
+#### <a name="chapter1part7"></a>Chapter 1 - Part 7: Code Blocks IDE Installation
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter1part7"></a>Chapter 1 - Part 8: First Program in C
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
