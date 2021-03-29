@@ -55,9 +55,9 @@ This project have a propose to introduce the reader the basics of logic programm
 
 In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url].
-
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
+
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url].
 
 # Project Description <a name="projectdescription"></a>
 
