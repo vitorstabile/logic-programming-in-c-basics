@@ -114,7 +114,7 @@ Automation describes a wide range of technologies that reduce human intervention
 
 In the example of the algorithm to make a cake, we can automation the process with a machine that is capable to do everything or a part of it...
 
-<div align="center"><img src="img/chapter1/automation-cake-w1140-h808.gif" width=565 height=141><br><sub>Fig 2 - Automation the Cake Recipe Algorithm</sub></div>
+<div align="center"><img src="img/chapter1/automation-cake-w1140-h808.gif" width=565 height=400><br><sub>Fig 2 - Automation the Cake Recipe Algorithm</sub></div>
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
 
