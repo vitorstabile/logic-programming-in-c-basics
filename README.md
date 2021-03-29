@@ -165,7 +165,7 @@ Computer programms is algorithms executade by the computer. For this, hardware a
 
 <br>
 
-<div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 7 - Computer Input/Processing/Output Common Diagram Common Level</sub></div>
+<div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 8 - Computer Input/Processing/Output Common Diagram Common Level</sub></div>
 
 <br>
     
