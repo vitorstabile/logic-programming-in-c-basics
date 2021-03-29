@@ -6,36 +6,44 @@
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Introduction](#chapter1)
-    - [Chapter 1 - Part 1: aaaa](#chapter1part1)
-    - [Chapter 1 - Part 2: bbbb](#chapter1part2)
-    - [Chapter 1 - Part 3: cccc](#chapter1part3)
+    - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
+    - [Chapter 1 - Part 2: Programming Language](#chapter1part2)
+    - [Chapter 1 - Part 3: IDE](#chapter1part3)
+    - [Chapter 1 - Part 4: Compiler and Interpreter](#chapter1part4)
+    - [Chapter 1 - Part 5: GCC MinGW Compiler Installation](#chapter1part5)
+    - [Chapter 1 - Part 6: Code Blocks IDE Installation](#chapter1part6)
+    - [Chapter 1 - Part 7: First Program in C](#chapter1part7)
 5. [Chapter 2: Sequential Structures](#chapter2)
-    - [Chapter 2 - Part 1: aaaa](#chapter2part1)
-    - [Chapter 2 - Part 2: bbbb](#chapter2part2)
-    - [Chapter 2 - Part 3: cccc](#chapter2part3)
+    - [Chapter 2 - Part 1: Arithmetic Expressions](#chapter2part1)
+    - [Chapter 2 - Part 2: Variables](#chapter2part2)
+    - [Chapter 2 - Part 3: Data Input](#chapter2part3)
+    - [Chapter 2 - Part 4: Data Processing](#chapter2part4)
+    - [Chapter 2 - Part 5: Data Output](#chapter2part5)
+    - [Chapter 2 - Part 6: Mathematical Functions](#chapter2part6)
 6. [Chapter 3: Conditional Structures](#chapter3)
-    - [Chapter 3 - Part 1: aaaa](#chapter3part1)
-    - [Chapter 3 - Part 2: bbbb](#chapter3part2)
-    - [Chapter 3 - Part 3: cccc](#chapter3part3)
+    - [Chapter 3 - Part 1: Comparable Expressions](#chapter3part1)
+    - [Chapter 3 - Part 2: Logical Expressions](#chapter3part2)
+    - [Chapter 3 - Part 3: Simple Conditional Structure](#chapter3part3)
+    - [Chapter 3 - Part 4: Compound Conditional Structure](#chapter3part4)
+    - [Chapter 3 - Part 5: Chaining Conditional Structures](#chapter3part5)
 7. [Chapter 4: Repetitive Structures](#chapter4)
-    - [Chapter 4 - Part 1: aaaa](#chapter4part1)
-    - [Chapter 4 - Part 2: bbbb](#chapter4part2)
-    - [Chapter 4 - Part 3: cccc](#chapter4part3)
+    - [Chapter 4 - Part 1: While Repetitive Structure](#chapter4part1)
+    - [Chapter 4 - Part 2: For Repetitive Structure](#chapter4part2)
 8. [Chapter 5: Vectors](#chapter5)
-    - [Chapter 5 - Part 1: aaaa](#chapter5part1)
-    - [Chapter 5 - Part 2: bbbb](#chapter5part2)
-    - [Chapter 5 - Part 3: cccc](#chapter5part3)
+    - [Chapter 5 - Part 1: Theory](#chapter5part1)
+    - [Chapter 5 - Part 2: Declaration and Creation](#chapter5part2)
+    - [Chapter 5 - Part 3: Access](#chapter5part3)
 9. [Chapter 6: Matrices](#chapter6)
-    - [Chapter 6 - Part 1: aaaa](#chapter6part1)
-    - [Chapter 6 - Part 2: bbbb](#chapter6part2)
-    - [Chapter 6 - Part 3: cccc](#chapter6part3)
-7. [Usage](#usage)
-8. [Contributors](#contributors)
-9. [Contributing](#contributing)
-10. [Roadmap](#roadmap)
-11. [To Do](#todo)
-12. [Contacts](#contacts)
-13. [License](#license)
+    - [Chapter 6 - Part 1: Theory](#chapter6part1)
+    - [Chapter 6 - Part 2: Declaration and Creation](#chapter6part2)
+    - [Chapter 6 - Part 3: Access](#chapter6part3)
+10. [Usage](#usage)
+11. [Contributors](#contributors)
+12. [Contributing](#contributing)
+13. [Roadmap](#roadmap)
+14. [To Do](#todo)
+15. [Contacts](#contacts)
+16. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
 
@@ -47,7 +55,7 @@ This project have a propose to introduce the reader the basics of logic programm
 
 In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - UML Design][logicalcourse-url].
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url].
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
@@ -60,10 +68,10 @@ Logical Programming have to be independet of what programming language you will 
 The basic content of a programming logic course consists:
 
 - Introduction: Algorithms, Programming Language, IDE, Compiler and Interpreter, GCC MinGW Compiler Installation, Code Blocks IDE Installation and First Program in C.
-- Sequential Structures: Arithmetic Expressions, Variables, Data Input, Data Processing and Data Output and Mathematical Functions.
-- Conditional Structures: Comparable Expressions, Logical Expressions, Simple Conditional Structure, Compound Conditional Structure, Chaining Conditional Structures.
+- Sequential Structures: Arithmetic Expressions, Variables, Data Input, Data Processing, Data Output and Mathematical Functions.
+- Conditional Structures: Comparable Expressions, Logical Expressions, Simple Conditional Structure, Compound Conditional Structure and Chaining Conditional Structures.
 - Repetitive Structures: While Repetitive Structure and For Repetitive Structure.
-- Vectors: Theory, Declaration, Creation and Access.
+- Vectors: Theory, Declaration and Creation and Access.
 - Matrices: Theory, Declaration, Creation and Access.
   
 ## <a name="chapter1"></a>Chapter 1: AAAA
