@@ -168,6 +168,37 @@ Computer programms is algorithms executade by the computer. For this, hardware a
 <div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 8 - Computer Input/Processing/Output Common Diagram Common Level</sub></div>
 
 <br>
+
+The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code:
+
+```c
+#include <stdio.h>
+void bubble_sort(int a[], int n) {
+    int i = 0, j = 0, tmp;
+    for (i = 0; i < n; i++) {   // loop n times - 1 per element
+        for (j = 0; j < n - i - 1; j++) { // last i elements are sorted already
+            if (a[j] > a[j + 1]) {  // swop if order is broken
+                tmp = a[j];
+                a[j] = a[j + 1];
+                a[j + 1] = tmp;
+            }
+        }
+    }
+}
+int main() {
+  int a[100], n, i, d, swap;
+  printf("Enter number of elements in the array:\n");
+  scanf("%d", &n); 
+  printf("Enter %d integers\n", n);
+  for (i = 0; i < n; i++)
+    scanf("%d", &a[i]);
+  bubble_sort(a, n);
+  printf("Printing the sorted array:\n");
+  for (i = 0; i < n; i++)
+     printf("%d\n", a[i]);
+  return 0;
+}
+```
     
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
 
