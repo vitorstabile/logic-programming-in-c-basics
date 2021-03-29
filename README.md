@@ -74,17 +74,9 @@ The basic content of a programming logic course consists:
 - Vectors: Theory, Declaration and Creation and Access.
 - Matrices: Theory, Declaration, Creation and Access.
   
-## <a name="chapter1"></a>Chapter 1: AAAA
+## <a name="chapter1"></a>Chapter 1: Introduction
 
-#### <a name="chapter1part1"></a>Chapter 1 - Part 1: aaaa
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
-
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
-
-#### <a name="chapter1part2"></a>Chapter 1 - Part 2: bbbb
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Algorithms
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -92,7 +84,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part3"></a>Chapter 1 - Part 3: cccc
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Programming Language
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -100,9 +92,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-## <a name="chapter2"></a>Chapter 2: BBBB
-
-#### <a name="chapter2part1"></a>Chapter 2 - Part 1: aaaa
+#### <a name="chapter1part3"></a>Chapter 1 - Part 3: IDE
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -110,7 +100,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter2part2"></a>Chapter 2 - Part 2:bbbb
+#### <a name="chapter1part4"></a>Chapter 1 - Part 4: Compiler and Interpreter
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -118,7 +108,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter2part3"></a>Chapter 2 - Part 3: cccc
+#### <a name="chapter1part5"></a>Chapter 1 - Part 5: GCC MinGW Compiler Installation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -126,9 +116,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-## <a name="chapter3"></a>Chapter 3: CCCC
-
-#### <a name="chapter3part1"></a>Chapter 3 - Part 1: aaaa
+#### <a name="chapter1part6"></a>Chapter 1 - Part 6: Code Blocks IDE Installation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -136,7 +124,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter3part2"></a>Chapter 3 - Part 2: bbbb
+#### <a name="chapter1part7"></a>Chapter 1 - Part 7: First Program in C
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -144,7 +132,161 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter3part3"></a>Chapter 3 - Part 3: cccc
+## <a name="chapter2"></a>Chapter 2: Sequential Structures
+
+#### <a name="chapter2part1"></a>Chapter 2 - Part 1: Arithmetic Expressions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: Variables
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Data Input
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter2part4"></a>Chapter 2 - Part 4: Data Processing
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter2part5"></a>Chapter 2 - Part 5: Data Output
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter2part6"></a>Chapter 2 - Part 6: Mathematical Functions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+## <a name="chapter3"></a>Chapter 3: Conditional Structures
+
+#### <a name="chapter3part1"></a>Chapter 3 - Part 1: Comparable Expressions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter3part2"></a>Chapter 3 - Part 2: Logical Expressions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter3part3"></a>Chapter 3 - Part 3: Simple Conditional Structure
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter3part4"></a>Chapter 3 - Part 4: Compound Conditional Structure
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter3part5"></a>Chapter 3 - Part 5: Chaining Conditional Structures
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+## <a name="chapter4"></a>Chapter 4: Repetitive Structures
+
+#### <a name="chapter4part1"></a>Chapter 4 - Part 1: While Repetitive Structure
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter4part2"></a>Chapter 4 - Part 2: For Repetitive Structure
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+## <a name="chapter5"></a>Chapter 5: Vectors
+
+#### <a name="chapter5part1"></a>Chapter 5 - Part 1: Theory
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter5part2"></a>Chapter 5 - Part 2: Declaration and Creation
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter5part3"></a>Chapter 5 - Part 3: Access
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+## <a name="chapter5"></a>Chapter 6: Matrices
+
+#### <a name="chapter6part1"></a>Chapter 6 - Part 1: Theory
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter6part2"></a>Chapter 6 - Part 2: Declaration and Creation
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
+Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
+Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+
+<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+
+#### <a name="chapter6part3"></a>Chapter 6 - Part 3: Access
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
