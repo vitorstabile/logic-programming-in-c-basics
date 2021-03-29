@@ -110,11 +110,11 @@ Example of a bubble sort algorithm:
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation and Computers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+Automation describes a wide range of technologies that reduce human intervention in processes. 
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+In the example of the algorithm to make a cake, we can automation the process with a machine that is capable to do everything or a part of it...
+
+<div align="center"><img src="img/chapter1/automation-cake-w1140-h808.gif" width=565 height=141><br><sub>Fig 2 - Automation the Cake Recipe Algorithm</sub></div>
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
 
