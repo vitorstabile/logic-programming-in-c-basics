@@ -156,7 +156,7 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 <div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
-#### <a name="chapter1part7"></a>Chapter 1 - Part 8: First Program in C
+#### <a name="chapter1part8"></a>Chapter 1 - Part 8: First Program in C
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
