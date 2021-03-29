@@ -120,7 +120,7 @@ The automation machine that is capable to automate the bubble sort algorithm is 
 
 What is a Computer?
 
-Down bellow, a simple reference that what is a computer:
+Down below, a simple reference what is a computer:
 
 <div align="center"><img src="img/chapter1/computer-component-w600-h436.JPG" width=600 height=436><br><sub>Fig 3 - Basic Computer</sub></div>
 
@@ -132,7 +132,7 @@ And a Software (Logical parts - Programms):
 
 <div align="center"><img src="img/chapter1/application-software-w360-h305.jpeg" width=360 height=305><br><sub>Fig 5 - Computer Softwares</sub></div>
 
-Computer programms is algorithms executade by the computer, for this, hardware and software work together to get the input of the user, procesing throw software after hrdware and output the result in screen.
+Computer programms is algorithms executade by the computer. For this, hardware and software work together to get the input of the user, process through software and hardware and output the result in screen.
 
 <div align="center"><img src="img/chapter1/structural-operating-system-w500-h333.png" width=500 height=333><br><sub>Fig 6 - Computer Input/Processing/Output Diagram Software Level</sub></div>
 
