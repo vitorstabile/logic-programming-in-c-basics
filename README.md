@@ -114,6 +114,54 @@ The following table shows all the arithmetic operators supported by the C langua
    | %        | Modulus Operator and remainder of after an integer division. | B % A = 0   |
    | ++       | Increment operator increases the integer value by one.       | A++ = 11    |
    | --       | Decrement operator decreases the integer value by one.       | A-- = 9     |
+   
+```c
+#include <stdio.h>
+
+main() {
+
+   int a = 21;
+   int b = 10;
+   int c ;
+
+   c = a + b;
+   printf("Line 1 - Value of c is %d\n", c );
+   
+   // Output: Line 1 - Value of c is 31
+	
+   c = a - b;
+   printf("Line 2 - Value of c is %d\n", c );
+   
+   // Output: Line 2 - Value of c is 11
+	
+   c = a * b;
+   printf("Line 3 - Value of c is %d\n", c );
+   
+   // Output: Line 3 - Value of c is 210
+	
+   c = a / b;
+   printf("Line 4 - Value of c is %d\n", c );
+   
+   // Output: Line 4 - Value of c is 2
+	
+   c = a % b;
+   printf("Line 5 - Value of c is %d\n", c );
+   
+   // Output: Line 5 - Value of c is 1
+	
+   c = a++; 
+   printf("Line 6 - Value of c is %d\n", c );
+   
+   // Output: Line 6 - Value of c is 21
+	
+   c = a--; 
+   printf("Line 7 - Value of c is %d\n", c );
+   
+   // Output: Line 7 - Value of c is 22
+   
+   return 0;
+}
+```
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Variables
 
