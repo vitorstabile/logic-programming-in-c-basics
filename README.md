@@ -6,7 +6,8 @@
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
 4. [Chapter 1: The C Language](#chapter1)
-    - [Chapter 1 - Part 1: History](#chapter1part1)
+    - [Chapter 1 - Part 1: Why C?](#chapter1part1)
+    - [Chapter 1 - Part 1: History](#chapter1part2)
     - [Chapter 1 - Part 2: GCC MinGW Compiler Installation](#chapter1part2)
     - [Chapter 1 - Part 3: Code Blocks IDE Installation](#chapter1part3)
     - [Chapter 1 - Part 4: First Program in C](#chapter1part4)
@@ -56,7 +57,7 @@ The Introduction to Programming logic can be found in this [repository][introduc
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url], the Youtube Channel [DevSuperior][devsuperior-url] and the WikiBook [Programar em C][wikibbok-url]
 
 # Project Description <a name="projectdescription"></a>
 
@@ -75,7 +76,7 @@ The basic content of a programming logic course consists:
   
 ## <a name="chapter1"></a>Chapter 1: The C Language
 
-#### <a name="chapter1part1"></a>Chapter 1 - Part 1: History
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: Why C?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
@@ -418,5 +419,6 @@ https://unsplash.com/
 [license-url]: https://github.com/vitorstabile/logic-programming-in-c-basics/blob/master/LICENSE.txt
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
+[wikibbok-url]: https://pt.wikibooks.org/wiki/Programar_em_C
 [introduction-url]: https://github.com/vitorstabile/logic-programming-basics
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
