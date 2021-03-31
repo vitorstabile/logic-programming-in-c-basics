@@ -253,9 +253,13 @@ An integrated development environment (IDE) is a software application that provi
 
 #### <a name="chapter1part5"></a>Chapter 1 - Part 5: Compiler and Interpreter
 
+**Source Code**
+
 In computing, source code is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text. 
 
 The source code of a program is specially designed to facilitate the work of computer programmers, who specify the actions to be performed by a computer mostly by writing source code. The source code is often transformed by an assembler or compiler into binary machine code that can be executed by the computer. The machine code might then be stored for execution at a later time. Alternatively, source code may be interpreted and thus immediately executed.
+
+<div align="center"><img src="img/chapter1/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 9 - Source Code Example - Java vs Python</sub></div>
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
