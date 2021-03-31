@@ -269,9 +269,11 @@ Compilation is the process the computer takes to convert a high-level programmin
 
 <div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
 
-**Compiled Languages vs interpreted Languages**
+**Compiled Languages vs Interpreted Languages**
 
-In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code.
+Compiled languages are converted directly into machine native code by a compiler program.They require an explicit build step before execution. That is why we need to rebuild the program every time we make a code change.Compiled languages tend to be faster and more efficient than interpreted languages. However, their generated machine code is platform-specific.
+
+On the other hand, in interpreted languages there are no build steps. Instead, interpreters operate on the source code of the program while executing it.Interpreted languages were once considered significantly slower than compiled languages.
 
 <div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Injterpreter</sub></div>
 
@@ -284,6 +286,10 @@ In a compiled language, the target machine directly translates the program. In a
     - JavaScript
     - Ruby
     - Python
+
+**Hybrid Languages**
+
+
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
