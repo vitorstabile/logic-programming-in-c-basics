@@ -269,11 +269,21 @@ Compilation is the process the computer takes to convert a high-level programmin
 
 <div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
 
-**Compiler Languages vs Interpreter Languages**
+**Compiled Languages vs interpreted Languages**
 
 In a compiled language, the target machine directly translates the program. In an interpreted language, the source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code.
 
 <div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Injterpreter</sub></div>
+
+- Example of Compiled Languages:
+    - C
+    - C++
+
+- Example of Interpreted Languages:
+    - PHP
+    - JavaScript
+    - Ruby
+    - Python
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
