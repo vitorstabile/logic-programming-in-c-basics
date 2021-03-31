@@ -261,7 +261,7 @@ The source code of a program is specially designed to facilitate the work of com
 
 <div align="center"><img src="img/chapter1/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 9 - Source Code Example - Java vs Python</sub></div>
 
-To the computer understand the source code, this code have to be  assembler or compiler into binary machine code that can be executed by the computer.
+To computer understand the source code, this code have to be  assembler or compiler into binary machine code that can be executed by the computer.
 
 **Compilation**
 
