@@ -289,7 +289,11 @@ On the other hand, in interpreted languages there are no build steps. Instead, i
 
 **Hybrid Languages**
 
+Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
 
+Java is one good example for these types of compilers.
+
+<div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Hybrid Language</sub></div>
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
@@ -297,7 +301,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neq
 Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
 Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+<div align="center"><img src="img/chapter1/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 1 - Aplication Deploy</sub></div>
 
 #### <a name="chapter1part7"></a>Chapter 1 - Part 7: Code Blocks IDE Installation
 
