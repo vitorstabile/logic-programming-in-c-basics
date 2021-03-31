@@ -275,7 +275,7 @@ Compiled languages are converted directly into machine native code by a compiler
 
 On the other hand, in interpreted languages there are no build steps. Instead, interpreters operate on the source code of the program while executing it.Interpreted languages were once considered significantly slower than compiled languages.
 
-<div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Injterpreter</sub></div>
+<div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Interpreter</sub></div>
 
 - Example of Compiled Languages:
     - C
@@ -293,7 +293,7 @@ Hybrid compiler is a compiler which translates a human readable source code to a
 
 Java is one good example for these types of compilers.
 
-<div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Hybrid Language</sub></div>
+<div align="center"><img src="img/chapter1/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 12 - Hybrid Language</sub></div>
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
