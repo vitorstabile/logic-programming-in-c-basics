@@ -78,9 +78,15 @@ The basic content of a programming logic course consists:
 
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Why C?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+Why C and not Java or Basic, or Perl? 
+
+Languages like Java or Perl are languages based on bytecode interpreted by a virtual machine, therefore, it is not a code interpreted directly by the processor. 
+
+Unlike many programming languages, C allows the programmer to address memory in much the same way as it would be done in Assembly. Languages like Java or Perl provide mechanisms that allow the programmer to do his job without having to worry about memory allocation or pointers. 
+
+This is generally a good thing, since it is quite a lot of work to deal with memory allocation when writing applications with high-level algorithms. However, when dealing with low-level tasks such as those that a kernel has to perform, such as copying a set of bytes to a network card, direct access to memory is highly necessary - something that you can't do with Java. C can be directly compiled into machine code, so it is fast and efficient. In addition, C allows you to customize how to implement everything to the basics, such as memory allocation, allowing adaptations to improve performance. It is worth remembering that script or bytecode interpreting software, such as Java and Python, are written in languages such as C and C ++.
+
+C is one of the most popular programming languages ​​for writing operating systems, such as Microsoft Windows, Mac OS X and GNU / Linux. Operating systems communicate directly with the hardware; there is no lower layer to mediate your requests. Originally, operating systems were written in Assembly language, which resulted in very fast and efficient code. However, writing an operating system in Assembly is a tedious (slow) process, and produces code that will work only on a CPU architecture, such as x86 or ARM. Writing an operating system in a high-level language, such as C, allows programmers to retrofit the operating system to various architectures without having to rewrite all the code. The Linux kernel is an example of an operating system written in C, with only a few sections of code written in Assembly, to be able to execute instructions that exist only in one or the other architecture and for some optimizations.
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: GCC MinGW Compiler Installation
 
