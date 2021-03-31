@@ -295,6 +295,10 @@ Java is one good example for these types of compilers.
 
 <div align="center"><img src="img/chapter1/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 12 - Hybrid Language</sub></div>
 
+- Example of Hybrid Languages:
+    - Java (Virtual Machine: JVM)
+    - C# (Virtual Machine: .NET
+
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
