@@ -224,7 +224,16 @@ Low-level programming languages are closer to machine code, or binary. Therefore
 
 High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they’re easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
 
+Programm language have a lexical rules (orthography) and syntax rules (gramm) to write programms.
 
+- Lexical
+    Is about the correct words orhography
+    
+    | Example English                                 | Example Programm Language  |
+    |:------------------------------------------------|:---------------------------|
+    | Dog (Correct)                                   | Main (Correct)             |
+    | Dogo (Wrong)                                    | Maim (Wrong)               |
+    
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: IDE
 
