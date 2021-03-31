@@ -7,10 +7,10 @@
 3. [Project Description](#projectdescription)
 4. [Chapter 1: The C Language](#chapter1)
     - [Chapter 1 - Part 1: Why C?](#chapter1part1)
-    - [Chapter 1 - Part 1: History](#chapter1part2)
-    - [Chapter 1 - Part 2: GCC MinGW Compiler Installation](#chapter1part2)
-    - [Chapter 1 - Part 3: Code Blocks IDE Installation](#chapter1part3)
-    - [Chapter 1 - Part 4: First Program in C](#chapter1part4)
+    - [Chapter 1 - Part 2: History of the C Language](#chapter1part2)
+    - [Chapter 1 - Part 3: GCC MinGW Compiler Installation](#chapter1part2)
+    - [Chapter 1 - Part 4: Code Blocks IDE Installation](#chapter1part3)
+    - [Chapter 1 - Part 5: First Program in C](#chapter1part4)
 5. [Chapter 2: Sequential Structures](#chapter2)
     - [Chapter 2 - Part 1: Arithmetic Expressions](#chapter2part1)
     - [Chapter 2 - Part 2: Variables](#chapter2part2)
@@ -86,13 +86,13 @@ Unlike many programming languages, C allows the programmer to address memory in 
 
 This is generally a good thing, since it is quite a lot of work to deal with memory allocation when writing applications with high-level algorithms. However, when dealing with low-level tasks such as those that a kernel has to perform, such as copying a set of bytes to a network card, direct access to memory is highly necessary - something that you can't do with Java. C can be directly compiled into machine code, so it is fast and efficient. In addition, C allows you to customize how to implement everything to the basics, such as memory allocation, allowing adaptations to improve performance. It is worth remembering that script or bytecode interpreting software, such as Java and Python, are written in languages such as C and C ++.
 
-C is one of the most popular programming languages ​​for writing operating systems, such as Microsoft Windows, Mac OS X and GNU / Linux. Operating systems communicate directly with the hardware; there is no lower layer to mediate your requests. Originally, operating systems were written in Assembly language, which resulted in very fast and efficient code. However, writing an operating system in Assembly is a tedious (slow) process, and produces code that will work only on a CPU architecture, such as x86 or ARM. Writing an operating system in a high-level language, such as C, allows programmers to retrofit the operating system to various architectures without having to rewrite all the code. The Linux kernel is an example of an operating system written in C, with only a few sections of code written in Assembly, to be able to execute instructions that exist only in one or the other architecture and for some optimizations.
+C is one of the most popular programming languages for writing operating systems, such as Microsoft Windows, Mac OS X and GNU / Linux. Operating systems communicate directly with the hardware; there is no lower layer to mediate your requests. Originally, operating systems were written in Assembly language, which resulted in very fast and efficient code. However, writing an operating system in Assembly is a tedious (slow) process, and produces code that will work only on a CPU architecture, such as x86 or ARM. Writing an operating system in a high-level language, such as C, allows programmers to retrofit the operating system to various architectures without having to rewrite all the code. The Linux kernel is an example of an operating system written in C, with only a few sections of code written in Assembly, to be able to execute instructions that exist only in one or the other architecture and for some optimizations.
 
-#### <a name="chapter1part2"></a>Chapter 1 - Part 2: GCC MinGW Compiler Installation
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: History of the C Language
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The initial development of the C language took place at AT & T's Bell labs between 1969 and 1973 by Kenneth Thompson and Dennis Ritchie. The name "C" was given to the language because many of its characteristics were derived from a previous programming language called "B". By 1973, the C language had become powerful enough that much of the UNIX kernel, originally written in the PDP-11/20 Assembly programming language, was rewritten in C, becoming one of the first operating system kernels. implemented in a language other than the Assembly.
+
+After the ANSI standardization process, the specifications of the C language remained relatively static for some time, while the C ++ language continued to evolve. (In 1995, Normative Ammplementation 1 created a new version of the C language but this version is rarely taken into account.) However, the standard was revised in the late 1990s, leading to the publication of the ISO 9899: 1999 standard. in 1999. This pattern is generally referred to as "C99". The standard was adopted as an ANSI standard in March 2000.
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Code Blocks IDE Installation
 
