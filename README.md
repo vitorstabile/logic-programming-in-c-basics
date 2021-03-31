@@ -103,11 +103,17 @@ Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculi
 
 #### <a name="chapter2part1"></a>Chapter 2 - Part 1: Arithmetic Expressions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan id neque ut tempor. Nulla facilisi. Aliquam eu eros fermentum, commodo est sed, pharetra est. 
-Curabitur lacinia blandit turpis rhoncus varius. Proin vulputate orci nulla, nec porttitor nibh consequat in. Suspendisse ac neque ut massa commodo auctor in sed libero. 
-Sed tincidunt mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis.
+The following table shows all the arithmetic operators supported by the C language. Assume variable A holds 10 and variable B holds 20, then −
 
-<div align="center"><img src="img/img-example-w5688-h3713.jpg" width=300 height=300><br><sub>Fig 1 - Aplication Deploy</sub></div>
+    | Operator | Description                                                  | Example     |
+    |:---------|:-------------------------------------------------------------|:------------|
+    | +        | Adds two operands.                                           | A + B = 30  |
+    | −        | Subtracts second operand from the first.                     | A − B = -10 |
+    | *        | Multiplies both operands.                                    | A * B = 200 |
+    | /        | Divides numerator by de-numerator.                           | B / A = 2   |
+    | %        | Modulus Operator and remainder of after an integer division. | B % A = 0   |
+    | ++       | Increment operator increases the integer value by one.       | A++ = 11    |
+    | --       | Decrement operator decreases the integer value by one.       | A-- = 9     |
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Variables
 
