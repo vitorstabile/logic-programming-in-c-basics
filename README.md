@@ -267,7 +267,7 @@ To computer understand the source code, this code have to be  assembler or compi
 
 Compilation is the process the computer takes to convert a high-level programming language into a machine language that the computer can understand. The software which performs this conversion is called a compiler.
 
-<div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
+<div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
 
 #### <a name="chapter1part6"></a>Chapter 1 - Part 6: GCC MinGW Compiler Installation
 
