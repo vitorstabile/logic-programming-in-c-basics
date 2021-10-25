@@ -13,7 +13,7 @@
     - [Chapter 1 - Part 8: While Statement in C](#chapter1part8)
     - [Chapter 1 - Part 9: For Statement in C](#chapter1part9)
     - [Chapter 1 - Part 10: Vectors in C](#chapter1part10)
-    - [Chapter 1 - Part 11: Matrix in C](#chapter1part10)
+    - [Chapter 1 - Part 11: Matrix in C](#chapter1part11)
   
 ## <a name="chapter1"></a>Chapter 1: The C Language
 
